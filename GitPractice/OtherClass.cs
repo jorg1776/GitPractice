@@ -7,10 +7,5 @@ namespace GitPractice
         {
             System.Console.WriteLine("Output!");
         }
-
-        public static void NewMethod()
-        {
-            System.Console.WriteLine("New method!");
-        }
     }
 }
