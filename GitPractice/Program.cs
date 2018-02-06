@@ -6,6 +6,7 @@ namespace GitPractice
         static void Main(string[] args)
         {
             OtherClass.OutputSomething();
+            System.Console.ReadKey();
         }
     }
 }

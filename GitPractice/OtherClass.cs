@@ -6,7 +6,11 @@ namespace GitPractice
         public static void OutputSomething()
         {
             System.Console.WriteLine("Output!");
-            System.Console.ReadKey();
+        }
+
+        public static void NewMethod()
+        {
+            System.Console.WriteLine("New method!");
         }
     }
 }
